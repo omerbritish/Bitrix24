@@ -8,13 +8,5 @@ public class test1 {
 
         //this message from github
         
-        //noluyor
-
-        ///eeeee
-        
-        // githubbbb
-
-        //without git add. and git commit -m "add....."
-        //gicik
-    }
+     }
 }
